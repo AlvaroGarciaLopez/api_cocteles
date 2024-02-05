@@ -216,5 +216,5 @@ const mojitos = {
 }
 
 for (let i = 0; i < mojitos.drinks.length; i++) {
-    console.log(mojito.drinks[i].strDrink + " el ID es" + mojito.drinks[i].idDrink);
+    console.log(mojitos.drinks[i].strDrink + " el ID es" + mojitos.drinks[i].idDrink);
 }
